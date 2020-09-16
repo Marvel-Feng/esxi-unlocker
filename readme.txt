@@ -37,6 +37,7 @@ Decompress the file from the ESXi console or via SSH:
 
 Run the command from the terminal:
 
+    tar zcf unlocker.tgz etc/
     ./esxi-install.sh
 
 Finally reboot the server.
